@@ -12,3 +12,13 @@ Currently taking the "Fundamentals of Computing" specialisation by Cousera which
 7. [The Fundamentals of Computing Capstone Exam](https://www.coursera.org/learn/fundamentals-of-computing-capstone)
 
 Each course has its own folder. Just the code I wrote which I think I may need to look at later is in this repo.
+
+## Running the code.
+
+The code is Python 2.7 written to run using the [CodeSkulptor environtment](http://www.codeskulptor.org/) (Python in your browser). It uses some libraries unique to the environment so it can't be used in the standard Python environment.
+
+To run the code:
+
+1. Copy it from the file.
+2. Paste in the [CodeSkulptor IDE](http://www.codeskulptor.org/)
+3. Click the Run/Play button at the top left of the IDE to Run it!
