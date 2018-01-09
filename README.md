@@ -1,7 +1,7 @@
-# Coursera's [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) (created by Rice University)
+# My Projects for Rice University's [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) (on Coursera)
 ## Course Creators: Luay Nakhleh, Joe Warren, John Greiner, Scott Rixner, Stephen Wong
 
-Currently taking the "Fundamentals of Computing" specialisation by Cousera which comprises the following 6 courses and a capstone exam:
+Took the "Fundamentals of Computing" specialisation by Rice University on Coursera which comprises the following 6 courses and a capstone exam:
 
 1. [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
 2. [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
@@ -15,10 +15,11 @@ Each course has its own folder. Just the code I wrote which I think I may need t
 
 ## Running the code.
 
-The code is Python 2.7 written to run using the [CodeSkulptor environtment](http://www.codeskulptor.org/) (Python in your browser). It uses some libraries unique to the environment so it can't be used in the standard Python environment.
+The code is Python 2.7 written to run using the [CodeSkulptor environtment](http://www.codeskulptor.org/) (Python in your browser). It uses some libraries unique to the environment so it can't be used in the standard Python environment yet.
 
 To run the code:
 
-1. Copy it from the file.
-2. Paste in the [CodeSkulptor IDE](http://www.codeskulptor.org/)
-3. Click the Run/Play button at the top left of the IDE to Run it!
+Each projects's folder has a README file. In the README file there is a link to run the project.
+
+1. Follow the link to open the the project in the CodeSkulptor Python web IDE.
+2. Click the 'play' button on the top left of the IDE to run the project
